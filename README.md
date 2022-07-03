@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, Sou Breno Alencar</h1>
 <h3 align="center">Apaixonado em Automatizar Trabalhos com Códigos</h3>
 
-- 🌱 Atualmente estou atualizando **Python, Data Science, Web Scraping e Machine Learning**
+- 🌱 Atualmente estou Estudando **Python, Data Science, Web Scraping e Machine Learning**
 
 - 📫 Você me acha através do e-mail **brenofranco.alencar@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/breno-alencar2111/" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in /breno-alencar2111/"height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/breno-alencar2111/" target="blank">
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
