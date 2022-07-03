@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Sou Breno Alencar</h1>
-<h3 align="center">Apaixonado em Automatizar trabalhos com Códigos</h3>
+<h3 align="center">Apaixonado em Automatizar Trabalhos com Códigos</h3>
 
 - 🌱 Atualmente estou atualizando **Python, Data Science, Web Scraping e Machine Learning**
 
